@@ -31,6 +31,4 @@ By dynamically shifting traffic via Thompson Sampling, this script demonstrates 
 * **Python**
 * **NumPy / SciPy** (For Beta distribution sampling and binomial simulations)
 
-## How to Run
-1. Clone this repository.
-2. Run the simulation: `python multi_armed_bandit.py`
+
